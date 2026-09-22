@@ -3,17 +3,17 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://karolinakisman.com.ua/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://karolinakisman.com.ua/index.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://karolinakisman.com.ua/uk/index.html"/>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://karolinakisman.com.ua/uk/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://karolinakisman.com.ua/index.html"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://karolinakisman.com.ua/uk/index.html"/>
-    <priority>1.0</priority>
-  </url>
+  <loc>https://karolinakisman.com.ua/</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://karolinakisman.com.ua/"/>
+  <xhtml:link rel="alternate" hreflang="uk" href="https://karolinakisman.com.ua/uk/index.html"/>
+  <priority>1.0</priority>
+</url>
+ <url>
+  <loc>https://karolinakisman.com.ua/uk/index.html</loc>
+  <xhtml:link rel="alternate" hreflang="ru" href="https://karolinakisman.com.ua/"/>
+  <xhtml:link rel="alternate" hreflang="uk" href="https://karolinakisman.com.ua/uk/index.html"/>
+  <priority>1.0</priority>
+</url>
 
   <url>
     <loc>https://karolinakisman.com.ua/prices.html</loc>
